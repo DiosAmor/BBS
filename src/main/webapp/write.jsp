@@ -11,6 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- 스타일시트 참조 -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/custom.css" rel="stylesheet">
 	<title>JSP 게시판 웹사이트</title>
 </head>
 
